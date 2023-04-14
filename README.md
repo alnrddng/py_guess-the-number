@@ -23,7 +23,7 @@ Run the number guessing using 'python3 main.py'. You will be asked to set the ''
 
 ## Credits
 Ying, K. (2021) *12 Beginner Python Projects - Coding Course*.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.youtube.com/watch?v=8ext9G7xspg&t=100s](https://www.youtube.com/watch?v=8ext9G7xspg&t=797s)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.youtube.com/watch?v=8ext9G7xspg&t=797s](https://www.youtube.com/watch?v=8ext9G7xspg&t=797s)
 
 ## License
 [MIT](LICENSE)
